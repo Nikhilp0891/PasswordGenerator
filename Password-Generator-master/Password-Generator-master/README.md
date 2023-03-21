@@ -12,7 +12,7 @@ Functionalities:
 * Depending on the length random characters from the password alphabet are selected and put back to back to form a totally random string according to the user's needs
 * The randomly generated password is then displayed on the console
 
-2- Checking a Password's Strength:
+2- Checking a Password's Strength: this is the main path
 
 The Strength check is based on the following criteria:
 * The password uses Uppercase Letters
